@@ -1,0 +1,14 @@
+LOGIN <username> <password>         --> SUCCEEDED
+                                    --> FAILED USERNAME NOT FOUND
+                                    --> FAILED WRONG PASSWORD
+REGISTER <username> <password>      --> SUCCEEDED
+                                    --> FAILED USERNAME ALREADY EXISTS
+WEATHER ALL <date: YYYY/MM/DD>      --> SUCCEEDED <weather data in json>
+                                        Call json.loads to get a list of lists, in form of (city_id, city_name, weather, temperature, humidity, wind_speed)
+                                    --> FAILED WRONG DATE FORMAT
+WEATHER RECENT <city_id> <count>    --> SUCCEEDED <city_name> <weather data in json>
+                                        Call json.loads to get a dictionary, in form of { 'YYYY/MM/DD': (weather, temperature, humidity, wind_speed) }
+                                    --> FAILED NO CITYID
+                                    --> FAILED VALUE ERROR
+A weather call before LOGIN?        --> FAILED NOT LOGGED IN
+DISCONNECT                          --> X

@@ -1,0 +1,335 @@
+[
+	{
+		"city_id": 8548,
+		"city_name": "Vung Tau",
+		"date_weather": [
+			{
+				"date": "2021/05/30",
+				"info": {
+					"weather": "Sunny + Cloudy",
+					"temperature": 99999.0,
+					"humidity": 0.99,
+					"wind_speed": 99.0
+				}
+			},
+			{
+				"date": "2021/05/31",
+				"info": {
+					"weather": "Sunny",
+					"temperature": 33.0,
+					"humidity": 0.74,
+					"wind_speed": 13.0
+				}
+			},
+			{
+				"date": "2021/06/01",
+				"info": {
+					"weather": "Sunny",
+					"temperature": 33.0,
+					"humidity": 0.74,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/02",
+				"info": {
+					"weather": "Sunny",
+					"temperature": 33.0,
+					"humidity": 0.75,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/03",
+				"info": {
+					"weather": "Sunny",
+					"temperature": 32.0,
+					"humidity": 0.75,
+					"wind_speed": 13.0
+				}
+			},
+			{
+				"date": "2021/06/04",
+				"info": {
+					"weather": "Sunny",
+					"temperature": 33.0,
+					"humidity": 0.72,
+					"wind_speed": 16.0
+				}
+			},
+			{
+				"date": "2021/06/05",
+				"info": {
+					"weather": "Sunny",
+					"temperature": 32.0,
+					"humidity": 0.75,
+					"wind_speed": 16.0
+				}
+			}
+		]
+	},
+	{
+		"city_id": 32248,
+		"city_name": "Ho Chi Minh",
+		"date_weather": [
+			{
+				"date": "2021/05/30",
+				"info": {
+					"weather": "Sunny + Cloudy",
+					"temperature": 34.0,
+					"humidity": 0.73,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/05/31",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 34.0,
+					"humidity": 0.68,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/01",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 34.0,
+					"humidity": 0.69,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/02",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 34.0,
+					"humidity": 0.71,
+					"wind_speed": 10.0
+				}
+			},
+			{
+				"date": "2021/06/03",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 33.0,
+					"humidity": 0.7,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/04",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 34.0,
+					"humidity": 0.69,
+					"wind_speed": 14.0
+				}
+			},
+			{
+				"date": "2021/06/05",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 34.0,
+					"humidity": 0.7,
+					"wind_speed": 18.0
+				}
+			}
+		]
+	},
+	{
+		"city_id": 41348,
+		"city_name": "Da Lat",
+		"date_weather": [
+			{
+				"date": "2021/05/30",
+				"info": {
+					"weather": "Sunny + Cloudy",
+					"temperature": 19.0,
+					"humidity": 0.89,
+					"wind_speed": 2.0
+				}
+			},
+			{
+				"date": "2021/05/31",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 26.0,
+					"humidity": 0.76,
+					"wind_speed": 8.0
+				}
+			},
+			{
+				"date": "2021/06/01",
+				"info": {
+					"weather": "Stormy",
+					"temperature": 26.0,
+					"humidity": 0.74,
+					"wind_speed": 5.0
+				}
+			},
+			{
+				"date": "2021/06/02",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 26.0,
+					"humidity": 0.74,
+					"wind_speed": 6.0
+				}
+			},
+			{
+				"date": "2021/06/03",
+				"info": {
+					"weather": "Stormy",
+					"temperature": 26.0,
+					"humidity": 0.75,
+					"wind_speed": 10.0
+				}
+			},
+			{
+				"date": "2021/06/04",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 26.0,
+					"humidity": 0.71,
+					"wind_speed": 13.0
+				}
+			},
+			{
+				"date": "2021/06/05",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 26.0,
+					"humidity": 0.7,
+					"wind_speed": 16.0
+				}
+			}
+		]
+	},
+	{
+		"city_id": 27776,
+		"city_name": "Dong Nai",
+		"date_weather": [
+			{
+				"date": "2021/05/30",
+				"info": {
+					"weather": "Sunny",
+					"temperature": 34.0,
+					"humidity": 0.84,
+					"wind_speed": 6.0
+				}
+			},
+			{
+				"date": "2021/05/31",
+				"info": {
+					"weather": "Cloudy",
+					"temperature": 33.0,
+					"humidity": 0.74,
+					"wind_speed": 13.0
+				}
+			},
+			{
+				"date": "2021/06/01",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 34.0,
+					"humidity": 0.73,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/02",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 33.0,
+					"humidity": 0.75,
+					"wind_speed": 10.0
+				}
+			},
+			{
+				"date": "2021/06/03",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 33.0,
+					"humidity": 0.75,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/04",
+				"info": {
+					"weather": "Rainy",
+					"temperature": 33.0,
+					"humidity": 0.71,
+					"wind_speed": 14.0
+				}
+			},
+			{
+				"date": "2021/06/05",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 33.0,
+					"humidity": 0.75,
+					"wind_speed": 16.0
+				}
+			}
+		]
+	},
+	{
+		"city_id": 36332,
+		"city_name": "Hue",
+		"date_weather": [
+			{
+				"date": "2021/05/30",
+				"info": {
+					"weather": "Cloudy",
+					"temperature": 30.0,
+					"humidity": 0.7,
+					"wind_speed": 99.5
+				}
+			}
+		]
+	},
+	{
+		"city_id": 8549,
+		"city_name": "Vung Tau",
+		"date_weather": [
+			{
+				"date": "2021/05/31",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 34.0,
+					"humidity": 0.8,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/01",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 34.0,
+					"humidity": 0.8,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/02",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 34.0,
+					"humidity": 0.8,
+					"wind_speed": 11.0
+				}
+			},
+			{
+				"date": "2021/06/03",
+				"info": {
+					"weather": "Lightning",
+					"temperature": 34.0,
+					"humidity": 0.8,
+					"wind_speed": 11.0
+				}
+			}
+		]
+	}
+]
